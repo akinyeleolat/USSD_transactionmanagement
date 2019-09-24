@@ -1,7 +1,7 @@
 
 ###### Transaction Management USSD Application 
 
-######Pivotal Tracker Stories
+###### Pivotal Tracker Stories
 ```$xslt
 Click the Link Below
 ```
